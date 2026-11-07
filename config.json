@@ -1,0 +1,1 @@
+{"inbounds":[{"port":8080,"protocol":"vless","settings":{"clients":[{"id":"a476593d-6d2b-4d29-ba40-b4b2856278f6","level":0},{"id":"bd34d933-986a-4bf7-88e2-d4663dba865d","level":0}],"decryption":"none"},"streamSettings":{"network":"ws","wsSettings":{"path":"/noob_gcp"}}}],"outbounds":[{"protocol":"freedom","settings":{}}]}
